@@ -20,7 +20,9 @@ Live Analysis: The complete Colab notebook is available here: https://colab.rese
 
 Data set links:
 Data 1-https://raw.githubusercontent.com/Oyeniran20/axia_cohort_8/refs/heads/main/trainperf.csv
+
 Data 2-https://raw.githubusercontent.com/Oyeniran20/axia_cohort_8/refs/heads/main/traindemographics.csv
+
 Data 3- https://raw.githubusercontent.com/Oyeniran20/axia_cohort_8/refs/heads/main/trainprevloans.csv
 
 
